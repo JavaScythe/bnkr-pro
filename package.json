@@ -6,5 +6,26 @@
     "jsdom": "^21.1.0",
     "md5": "^2.3.0",
     "uglify-js": "^3.17.4"
-  }
+  },
+  "name": "bnkr-pro",
+  "description": "modernization of bunker for extended release",
+  "version": "0.1.0-pre.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index",
+    "prestart": "node build",
+    "build": "node build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpicPuppy613/bnkr-pro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpicPuppy613/bnkr-pro/issues"
+  },
+  "homepage": "https://github.com/EpicPuppy613/bnkr-pro#readme"
 }
