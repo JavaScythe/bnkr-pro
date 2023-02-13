@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EpicPuppy613/bnkr-pro.git"
+    "url": "git+https://github.com/JavaScythe/bnkr-pro.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EpicPuppy613/bnkr-pro/issues"
+    "url": "https://github.com/JavaScythe/bnkr-pro/issues"
   },
-  "homepage": "https://github.com/EpicPuppy613/bnkr-pro#readme"
+  "homepage": "https://github.com/JavaScythe/bnkr-pro#readme"
 }
